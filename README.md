@@ -1,2 +1,2 @@
-# Rupal-Flask-Blog
-This is Rupals Flask Blog
+# Flask_Blog
+Deploying Flask Blog in Google App Engine
